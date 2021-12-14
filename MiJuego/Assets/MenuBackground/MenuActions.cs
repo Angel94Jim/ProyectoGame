@@ -12,7 +12,7 @@ public class MenuActions : MonoBehaviour
 
      public void Settings()
      {
-         //Implementacion Futura - Ver ejemplos en juegos de android para ver que implementan ellos
+         SceneManager.LoadScene("SettingsMenu");
      }
 
      public void GoToMainMenu()
