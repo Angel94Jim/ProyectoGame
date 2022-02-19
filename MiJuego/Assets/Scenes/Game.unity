@@ -523,4 +523,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8368f716b20d2a649bd88518dccd5cd9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  forwardSpeed: 5
+  forwardSpeed: 0
+  laneDistance: 4
